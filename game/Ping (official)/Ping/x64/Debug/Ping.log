@@ -1,0 +1,6 @@
+﻿  Ping.cpp
+C:\Users\84395\Desktop\game\Ping\Ping\Ping.cpp(52,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\84395\Desktop\game\Ping\Ping\Ping.cpp(86,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\84395\Desktop\game\Ping\Ping\Ping.cpp(93,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\84395\Desktop\game\Ping\Ping\Ping.cpp(93,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Ping.vcxproj -> C:\Users\84395\Desktop\game\Ping\x64\Debug\Ping.exe
